@@ -1,11 +1,8 @@
-# Hugo Simple Theme
+# Hugo Simple Theme jn
 
-This is a very simple and lightweight Hugo Theme inspired by the geniuses behind [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com/).
+Forked from https://github.com/jaydennord/website.git
 
-## Screenshots
-
-![preview](https://raw.githubusercontent.com/Xzya/simple-hugo-theme/master/images/screenshot.png)
-![preview](https://raw.githubusercontent.com/Xzya/simple-hugo-theme/master/images/screenshot2.png)
+Added MathJax support and other tweaks.
 
 ## Configuration
 
