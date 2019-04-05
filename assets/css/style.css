@@ -73,8 +73,14 @@ img {
 }
 
 @media only screen and (max-width: 650px) {
+  /*
+  body {
+    background-color: white;
+  }
+  */
   
   #sub_body {
+    max-width: 650px;
         padding: 29px 20px; 
   }
   
